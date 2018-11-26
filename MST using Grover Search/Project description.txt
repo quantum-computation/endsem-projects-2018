@@ -1,0 +1,14 @@
+# Project Team:
+Karan Jivani (201501401)
+Utsav Patel (201501443)
+Harsh Vasoya (201501405)
+Sagar Savaliya (201501407)
+Romil Shah (201501224)
+
+
+# Problem Statement:
+Build a minimum spanning tree by implementing Boruvka's algorithm using
+Grover's search algorithm.
+
+# How to run the code:
+Type "python3 boruvka.py" in the terminal.
