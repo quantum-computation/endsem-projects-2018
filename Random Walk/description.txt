@@ -1,0 +1,9 @@
+Project Name:
+Coin Flip and Shift operation in Quantum Random Walk
+
+End sem project made by: 
+Abhishek Agrawal (201501007)
+Sohil Khokhar (201501144)
+Ajay Shamla (201501165)
+Darshan Makwana (201501425)
+Tirth Patel (201501453)
