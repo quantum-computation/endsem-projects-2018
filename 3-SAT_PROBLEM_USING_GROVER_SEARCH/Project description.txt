@@ -1,0 +1,11 @@
+# Project Team:
+Nil Patel(201501226)
+Aman Patel(201501227)
+Darshan Patel(201501077)
+Dhumil Dholiya(201501091) 
+
+# Problem Statement:
+Build a exactly 1 3 sat problem using Grover's search algorithm.
+
+# How to run the code:
+Type "python3 Code.py" in the terminal.
