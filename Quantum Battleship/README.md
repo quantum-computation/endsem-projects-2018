@@ -1,11 +1,13 @@
 # Quantum Battleship
 
-	Name				ID
-Jay Goswami			201501037
-Nirav Doshi			201501056
-Hiren Chauhan		201501195
-Sachin Chauhan		201501200
-Rohan Maheshwari	201501428
+Project done by:
+
+	    Name			ID
+    Jay Goswami		    201501037
+    Nirav Doshi		    201501056
+    Hiren Chauhan		    201501195
+    Sachin Chauhan	            201501200
+    Rohan Maheshwari	    201501428
 
 #### Instructions
 
