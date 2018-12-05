@@ -1,3 +1,11 @@
+# Project Team:
+Kaushik Makwana  (201501118)
+Kirtan Patel     (201501159)
+Mihir Parmar     (201501192)
+Adarsh Shukla    (201501203)
+Savan Doshi      (201501220)
+
+
 Steps to run:
 1. Set the the state to be sent through the quantum channel
 
